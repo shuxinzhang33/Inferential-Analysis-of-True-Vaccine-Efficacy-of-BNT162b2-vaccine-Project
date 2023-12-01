@@ -1,4 +1,4 @@
-# STAT342-Final
+# Inferential Analysis of True Vaccine Efficacy of BNT162b2 Vaccine Project
 
 By Yanting Hu, Liuyixin Shao, and Shuxin Zhang
 
